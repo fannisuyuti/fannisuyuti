@@ -1,6 +1,6 @@
 ### Hi there, my name is Fanni
-#### I am Software Engineer from Indonesia
-Currently I'm mostly work with Java, but also make some fun-little-project with python and nodeJs on my free time.
+#### I am a software engineer with a strong focus on the Java language. With experience in the Spring Framework and additional skills in Python and JavaScript, I am a well-rounded developer with a passion for creating innovative projects. 
+#### Based in Indonesia, I am always looking for new opportunities to learn and grow as a developer.
 
 Skills: Java, Python, Swift
 
